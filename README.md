@@ -11,10 +11,10 @@ Respositório para armazenar resumos sobre Git e Github do curso Versionamento d
 
 | Aulas | Resumos |
 |-------|---------|
-|Aula 01| [Resumo]()|
-|Aula 02| [Resumo]()|
-| Gravando Alterações no Repositório Local | [Resumo]
-() |
+|Aula 01| [Resumo](aula-01.md)|
+|Aula 02| [Resumo](aula-02.md)|
+| Gravando Alterações no Repositório Local. | [Resumo]
+(.) |
 
 ...
 git init
